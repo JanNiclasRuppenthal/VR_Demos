@@ -1,4 +1,4 @@
-[Deutsche Version](README_DE.md) | [English Version](README_EN.md)
+[Deutsche Version](README.md) | [English Version](README_EN.md)
 
 ---
 
